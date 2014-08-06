@@ -1,7 +1,7 @@
-== README
+Learning Swagger
+==
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Simple Rails app that demonstrates how to use Swagger to document RESTful APIs.
 
 Things you may want to cover:
 
